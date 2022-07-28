@@ -1,0 +1,34 @@
+[
+	{
+		"name": "taza",
+		"precio": "123",
+		"color": "blue",
+		"image": "1658934956751-favicon.ico",
+		"id": 1,
+		"isAdopted": false
+	},
+	{
+		"name": "cafetera",
+		"precio": "500",
+		"color": "black",
+		"image": "1658944078531-favicon.ico",
+		"id": 2,
+		"isAdopted": false
+	},
+	{
+		"name": "buzo",
+		"precio": "120",
+		"color": "yellow",
+		"image": "1658944269426-favicon.ico",
+		"id": 3,
+		"isAdopted": false
+	},
+	{
+		"name": "pelota",
+		"precio": "50",
+		"color": "brown",
+		"image": "1659027097058-favicon.ico",
+		"id": 4,
+		"isAdopted": false
+	}
+]
